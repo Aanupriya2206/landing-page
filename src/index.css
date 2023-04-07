@@ -5,8 +5,8 @@
   font-family: sans-serif;
 }
 @keyframes example{
-  0% {background-image: url("Assets/netflix2.png");}
-  25% {background-image: url("Assets/netflix.jpg");}
+  0% {background-image: url("Assets/netflix.jpg");}
+  25% {background-image: url("Assets/netflix2.png");}
   50% {background-image: url("Assets/netflix3.jpg");}
   75% {background-image: url("Assets/netflix4.jpg");}
   100% {background-image: url("Assets/netflix5.jpg");}
